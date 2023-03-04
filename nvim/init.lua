@@ -1,0 +1,8 @@
+require('settings')
+require('packer-config')
+require('nvim-tree-config')
+require('colors.gruvbox')
+require('mappings')
+require('lualine-config')
+require('lsp-config')
+require('treesitter-config')

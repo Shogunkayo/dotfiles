@@ -1,0 +1,5 @@
+[pycodestyle]
+ignore = E226,E302,E41,E501,E305,E722,E231
+
+[flake8]
+max-complexity = 25
