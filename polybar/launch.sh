@@ -26,12 +26,11 @@ if [[ "$1" == "--colorblocks" ]]; then
 	style="colorblocks"
 	launch_bar
 
-
 else
 	cat <<- EOF
 	Usage : launch.sh --theme
 		
 	Available Themes :
-        --colorblocks
-    EOF
+	--colorblocks
+	EOF
 fi
